@@ -1,0 +1,21 @@
+{
+  "name": "chat-bot",
+  "version": "1.0.0",
+  "description": "This is a Random chat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram-chat-bot"
+  ],
+  "author": "Rohit Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.2.0",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2",
+    "telegraf": "^4.15.3"
+  }
+}
